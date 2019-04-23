@@ -1,2 +1,2 @@
 # AndroidLibraryTesting
-Android library testing.
+Android library testing. Clone and Push test done.
